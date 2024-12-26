@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wdth,wght@112.5,300..700&family=Holtwood+One+SC&family=Russo+One&family=Unbounded:wght@200..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font1 {
+    font-family: 'Fredoka', serif;
+    font-optical-sizing: auto;
+}
+
+.font2 {
+    font-family: 'Holtwood One SC', serif;
+}
+
+.font3 {
+    font-family: 'Russo One', serif;
+}   
+
+.font4 {
+    font-family: 'Unbounded', serif;
+    font-optical-sizing: auto;
+}
